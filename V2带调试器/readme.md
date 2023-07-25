@@ -23,8 +23,8 @@
 ### DBG+UART
 
 - `DBG+UART?` 查询UART信号状态
-- `DBG+SWD=UART`使能UART信号
-- `DBG+SWD=UART`失能UART信号
+- `DBG+UART=ENABLE`使能UART信号
+- `DBG+UART=DISABLE`失能UART信号
 
 ### DBG+INFO
 
